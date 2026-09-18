@@ -1,2 +1,22 @@
-# enterprise-cybersecurity-home-lab
-Building a SOC and Threat Detection Home Lab using Windows, Kali Linux, Sysmon, and Splunk.
+
+# Enterprise Cybersecurity Home Lab
+
+## Goal
+
+Build a cybersecurity practice environment.
+
+## Tools
+
+- Windows 11
+- Kali Linux
+- Splunk
+- Sysmon
+- VirtualBox
+
+## Progress
+
+- [x] Repository Created
+- [ ] Folder Structure Created
+- [ ] VirtualBox Installed
+- [ ] Windows VM Installed
+- [ ] Kali Linux Installed
